@@ -89,8 +89,8 @@ const facultyList = ref([
   {
     name: "Rishi ",
     experience: "8+ Years Industry Experience ",
-    // photoUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1662375798468-image_picker6393028551827813776.jpg",
+    photoUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1662375798468-image_picker6393028551827813776.jpg",
     description:
       "Bit Mesra Alumni. Ex. Lead Software Engineer. Developed and scaled products for millions of users.",
     active: true,
@@ -98,8 +98,8 @@ const facultyList = ref([
   {
     name: "Abhishek",
     experience: "3 Months",
-    // photoUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663164594692-image_picker7738084370600353889.jpg",
+    photoUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663164594692-image_picker7738084370600353889.jpg",
     description:
       "Seasoned Personality Development , public speaking trainer. Have trained many professionals working in Microsoft, Google and many top MNCs.",
     active: true,
