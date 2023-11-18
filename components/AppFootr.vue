@@ -6,12 +6,12 @@
     >
       <div class="container p-8 py-16 max-w-7xl mx-auto">
         <a  class="flex gap-4 my-4">
-            <img
+            <!-- <img
               src="https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1662375671324-image_picker888690444996149863.jpg"
               width="50"
               height="50"
               alt="Float UI logo"
-            />
+            /> -->
           <span class="mx-2 text-2xl text-center  my-auto text-yellow-500 font-semibold">Antrie</span>
           </a>
         <div class="flex">
@@ -97,8 +97,3 @@ defineProps({
   border-bottom: 1px solid #ed2d33;
 }
 </style>
-address : {country: "India", state: "Bihar", district: null, city: "Patna",
-pinCode: "800020",…} addLineOne : "B/173, Shruti Kunj" addLineTwo : null area :
-"Kankarbagh" city : "Patna" country : "India" district : null landmark :
-"Raghunath School" pinCode : "800020" state : "Bihar" contactNumber :
-"9693243217" mainBranch : true officeTiming : "7:01 AM 9:00 PM"

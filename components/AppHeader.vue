@@ -6,12 +6,12 @@
       <div class="items-center  max-w-screen-xl mx-auto md:flex ">
         <div class="flex items-center justify-between py-3 md:py-5 md:block">
           <a  class="flex gap-4 text-center">
-            <img
+            <!-- <img
               src="https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1662375671324-image_picker888690444996149863.jpg"
               width="50"
               height="50"
               alt="Float UI logo"
-            />
+            /> -->
           <span class="mx-2 text-2xl text-center  my-auto font-bold">Antrie</span>
 
           </a>

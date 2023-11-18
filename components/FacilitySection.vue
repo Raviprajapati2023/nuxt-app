@@ -45,8 +45,8 @@ const facilityList = ref([
   {
     title: "Problem Solving ",
     description: "Daily hands on problem solving  ",
-    imageURL:
-      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1662375671324-image_picker888690444996149863.jpg",
+    // imageURL:
+    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1662375671324-image_picker888690444996149863.jpg",
     active: false,
     status: false,
   },
@@ -54,8 +54,8 @@ const facilityList = ref([
     title: "Industry Expert Mentors ",
     description:
       "Get mentored by industry experts from Amazon, Apple, Google, Microsoft and more.",
-    imageURL:
-      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1662375726220-image_picker7758269648113076255.jpg",
+    // imageURL:
+    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1662375726220-image_picker7758269648113076255.jpg",
     active: false,
     status: false,
   },
@@ -63,8 +63,8 @@ const facilityList = ref([
     title: "Personality development classes",
     description:
       "Personality development classes on Sunday for all the students",
-    imageURL:
-      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663171433108-image_picker8702121356753421104.jpg",
+    // imageURL:
+    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663171433108-image_picker8702121356753421104.jpg",
     active: false,
     status: false,
   },

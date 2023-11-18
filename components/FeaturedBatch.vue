@@ -24,28 +24,28 @@
 
                 <div class="flex items-center my-6">
                   <div class="mr-2">
-                    <img
+                    <!-- <img
                       src="https://www.batchbeep.in/img/calendar.cac65f37.svg"
                       class="w-6 h-6"
-                    />
+                    /> -->
                   </div>
                   <div class="text-gray-600">{{ batch.batchStartDate }}</div>
                 </div>
                 <div class="flex items-center my-6">
                   <div class="mr-2">
-                    <img
+                    <!-- <img
                       src="https://www.batchbeep.in/img/location.a8fc849d.svg"
                       class="w-6 h-6"
-                    />
+                    /> -->
                   </div>
                   <div class="text-gray-600">{{ batch.branchName }}</div>
                 </div>
                 <div class="flex items-center my-6">
                   <div class="mr-2">
-                    <img
+                    <!-- <img
                       src="https://www.batchbeep.in/img/clock.8cedf1a4.svg"
                       class="w-6 h-6"
-                    />
+                    /> -->
                   </div>
                   <div class="text-gray-600">
                     {{ batch.batchTiming }}

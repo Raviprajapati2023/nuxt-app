@@ -30,22 +30,22 @@ const galleryList = ref([
   {
     title: "Teacher's day celebration",
     description: "Students celebrating teacher's day at our Kankarbagh Center.",
-    imageURL:
-      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663164320577-image_picker9044707527612968456.jpg",
+    // imageURL:
+    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663164320577-image_picker9044707527612968456.jpg",
     status: true,
   },
   {
     title: "CodeUps",
     description: "Biweekly coding meetups on new technologies",
-    imageURL:
-      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1675851081475-",
+    // imageURL:
+    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1675851081475-",
     status: true,
   },
   {
     title: "",
     description: "",
-    imageURL:
-      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1679738286364-",
+    // imageURL:
+    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1679738286364-",
     status: true,
   },
 ]);
