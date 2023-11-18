@@ -91,8 +91,8 @@ const testimonialList = ref([
   {
     name: "Aanya ",
     bio: "CSE, IIT Bombay",
-    // imgUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663169571889-image_picker2996683955809270566.jpg",
+    imgUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663169571889-image_picker2996683955809270566.jpg",
     comments:
       "The trainers are industry experts. I have learnt Java, DSA and Android.",
     active: true,
@@ -100,16 +100,16 @@ const testimonialList = ref([
   {
     name: "Nikhil Kumar",
     bio: "2nd Year, B.N College",
-    // imgUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663169922796-image_picker170968792975919416.jpg",
+    imgUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663169922796-image_picker170968792975919416.jpg",
     comments: "Best Coding classes in Patna. Rishi sir is one of the best.",
     active: true,
   },
   {
     name: "Harsh Raj",
     bio: "Data Analyst at Bank of America",
-    // imgUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663169328262-image_picker5373033690363063736.jpg",
+    imgUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1663169328262-image_picker5373033690363063736.jpg",
     comments:
       "A lot of thanks to Coding Age and their industry expert faculties who trained me in Python and Data Science and helped me get a Job at Bank of America as a data analyst.",
     active: true,

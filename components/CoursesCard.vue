@@ -26,12 +26,12 @@
                 class="w-full "
                 alt=""
               />
-              <!-- <img
+              <img
              v-else
               src="https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668284831271-"
                 class="w-full  my-auto "
                 alt=""
-              /> -->
+              />
 
             </div>
             <div class=" w-1/2 p-2 my-auto">
@@ -63,8 +63,8 @@ const courseList = ref([
     duration: "3 months",
     courseFee: 9000,
     active: true,
-    // imageUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668494459465-",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668494459465-",
   },
   {
     name: "Junior coding",
@@ -73,8 +73,8 @@ const courseList = ref([
     duration: "8 months",
     courseFee: 12000,
     active: true,
-    // imageUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668494480733-",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668494480733-",
   },
   {
     name: "C/C++ Programming",
@@ -83,8 +83,8 @@ const courseList = ref([
     duration: "2 months",
     courseFee: 6000,
     active: true,
-    // imageUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668494498208-",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668494498208-",
   },
   {
     name: "Full Stack Development",
@@ -94,8 +94,8 @@ const courseList = ref([
     duration: "9 months",
     courseFee: 35000,
     active: true,
-    // imageUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668284831271-",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668284831271-",
   },
   {
     name: "DSA",
@@ -105,8 +105,8 @@ const courseList = ref([
     duration: "6 months",
     courseFee: 25000,
     active: true,
-    // imageUrl:
-    //   "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668494551207-",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/sms-bucket-01/1668494551207-",
   },
   {
     name: "Introduction to Programming with C/C++/Java/Python",

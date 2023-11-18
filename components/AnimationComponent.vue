@@ -21,44 +21,44 @@
   </template>
   
   <script setup>
-//  const companies = [
-//     {
-//       name: 'a',
-//       img: 'https://seeklogo.com/images/G/google-2015-new-logo-FFFC46553B-seeklogo.com.png',
-//     },
-//     {
-//       name: 'b',
-//       img: 'https://seeklogo.com/images/A/amazon-logo-E45AFA9F25-seeklogo.com.png',
-//     },
-//     {
-//       name: 'c',
-//       img: 'https://seeklogo.com/images/F/flipkart-logo-5CE68C24AF-seeklogo.com.png',
-//     },
-//     {
-//       name: 'd',
-//       img: 'https://seeklogo.com/images/S/Simon-logo-D93DFD1518-seeklogo.com.png',
-//     },
-//     {
-//       name: 'e',
-//       img: 'https://seeklogo.com/images/S/simon-data-logo-5D0A739045-seeklogo.com.png',
-//     },
-//     {
-//       name: 'h',
-//       img: 'https://seeklogo.com/images/M/microsoft-logo-B5C9E49146-seeklogo.com.png',
-//     },
-//     {
-//       name: 'i',
-//       img: 'https://seeklogo.com/images/U/uber-eats-logo-D146CA8D8B-seeklogo.com.png',
-//     },
-//     {
-//       name: 'j',
-//       img: 'https://seeklogo.com/images/C/cornershop-logo-6B4F8F961F-seeklogo.com.png',
-//     },
-//     {
-//       name: 'k',
-//       img: 'https://seeklogo.com/images/O/oyo-rooms-logo-ADDE1C74DB-seeklogo.com.png',
-//     },
-//   ];
+ const companies = [
+    {
+      name: 'a',
+      img: 'https://seeklogo.com/images/G/google-2015-new-logo-FFFC46553B-seeklogo.com.png',
+    },
+    {
+      name: 'b',
+      img: 'https://seeklogo.com/images/A/amazon-logo-E45AFA9F25-seeklogo.com.png',
+    },
+    {
+      name: 'c',
+      img: 'https://seeklogo.com/images/F/flipkart-logo-5CE68C24AF-seeklogo.com.png',
+    },
+    {
+      name: 'd',
+      img: 'https://seeklogo.com/images/S/Simon-logo-D93DFD1518-seeklogo.com.png',
+    },
+    {
+      name: 'e',
+      img: 'https://seeklogo.com/images/S/simon-data-logo-5D0A739045-seeklogo.com.png',
+    },
+    {
+      name: 'h',
+      img: 'https://seeklogo.com/images/M/microsoft-logo-B5C9E49146-seeklogo.com.png',
+    },
+    {
+      name: 'i',
+      img: 'https://seeklogo.com/images/U/uber-eats-logo-D146CA8D8B-seeklogo.com.png',
+    },
+    {
+      name: 'j',
+      img: 'https://seeklogo.com/images/C/cornershop-logo-6B4F8F961F-seeklogo.com.png',
+    },
+    {
+      name: 'k',
+      img: 'https://seeklogo.com/images/O/oyo-rooms-logo-ADDE1C74DB-seeklogo.com.png',
+    },
+  ];
   
   let currentIndex = 0;
   const totalCompanies = companies.length;
